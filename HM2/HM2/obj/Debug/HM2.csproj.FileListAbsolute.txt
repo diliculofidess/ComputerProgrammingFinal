@@ -1,0 +1,8 @@
+c:\users\tsais\documents\visual studio 2013\Projects\HM2\HM2\bin\Debug\HM2.exe.config
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\obj\Debug\HM2.csprojResolveAssemblyReference.cache
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\bin\Debug\HM2.exe
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\bin\Debug\HM2.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\obj\Debug\HM2.exe
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\obj\Debug\HM2.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\obj\Debug\HM2.Form1.resources
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\HM2\HM2\obj\Debug\HM2.csproj.GenerateResource.Cache

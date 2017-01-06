@@ -1,0 +1,12 @@
+c:\users\tsais\documents\visual studio 2015\Projects\Date\Date\bin\Debug\Date.exe.config
+c:\users\tsais\documents\visual studio 2015\Projects\Date\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+c:\users\tsais\documents\visual studio 2015\Projects\Date\Date\bin\Debug\Date.exe
+c:\users\tsais\documents\visual studio 2015\Projects\Date\Date\bin\Debug\Date.pdb
+c:\users\tsais\documents\visual studio 2015\Projects\Date\Date\obj\Debug\Date.exe
+c:\users\tsais\documents\visual studio 2015\Projects\Date\Date\obj\Debug\Date.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Date\Date\bin\Debug\Date.exe.config
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Date\Date\obj\Debug\Date.exe
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Date\Date\obj\Debug\Date.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Date\Date\bin\Debug\Date.exe
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Date\Date\bin\Debug\Date.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Date\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache

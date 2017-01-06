@@ -1,0 +1,6 @@
+c:\users\tsais\documents\visual studio 2015\Projects\Homeworkfor1028_BMI_BP_BS\Homeworkfor1028_BMI_BP_BS\bin\Debug\Homeworkfor1028_BMI_BP_BS.exe.config
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\Homeworkfor1028_BMI_BP_BS\Homeworkfor1028_BMI_BP_BS\obj\Debug\Homeworkfor1028_BMI_BP_BS.csprojResolveAssemblyReference.cache
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\Homeworkfor1028_BMI_BP_BS\Homeworkfor1028_BMI_BP_BS\bin\Debug\Homeworkfor1028_BMI_BP_BS.exe
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\Homeworkfor1028_BMI_BP_BS\Homeworkfor1028_BMI_BP_BS\bin\Debug\Homeworkfor1028_BMI_BP_BS.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\Homeworkfor1028_BMI_BP_BS\Homeworkfor1028_BMI_BP_BS\obj\Debug\Homeworkfor1028_BMI_BP_BS.exe
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\Homeworkfor1028_BMI_BP_BS\Homeworkfor1028_BMI_BP_BS\obj\Debug\Homeworkfor1028_BMI_BP_BS.pdb

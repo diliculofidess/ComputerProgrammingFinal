@@ -1,0 +1,9 @@
+c:\users\tsais\documents\visual studio 2015\Projects\1024\1024\bin\Debug\1024.exe.config
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\1024\1024\bin\Debug\1024.exe
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\1024\1024\bin\Debug\1024.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\1024\1024\obj\Debug\1024.csprojResolveAssemblyReference.cache
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\1024\1024\obj\Debug\1024.exe
+C:\Users\TsaiS\Documents\Visual Studio 2015\Projects\1024\1024\obj\Debug\1024.pdb
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\1024\1024\bin\Debug\1024.exe.config
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\1024\1024\obj\Debug\1024.exe
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\1024\1024\obj\Debug\1024.pdb

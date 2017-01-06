@@ -1,0 +1,3 @@
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Practice1014\Practice1014\bin\Debug\Practice1014.exe.config
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Practice1014\Practice1014\obj\Debug\Practice1014.exe
+C:\Users\TsaiS\Documents\Visual Studio 2013\Projects\Practice1014\Practice1014\obj\Debug\Practice1014.pdb

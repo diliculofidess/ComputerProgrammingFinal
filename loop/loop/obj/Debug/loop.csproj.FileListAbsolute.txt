@@ -1,0 +1,5 @@
+c:\users\tsais\documents\visual studio 2015\Projects\loop\loop\bin\Debug\loop.exe.config
+c:\users\tsais\documents\visual studio 2015\Projects\loop\loop\bin\Debug\loop.exe
+c:\users\tsais\documents\visual studio 2015\Projects\loop\loop\bin\Debug\loop.pdb
+c:\users\tsais\documents\visual studio 2015\Projects\loop\loop\obj\Debug\loop.exe
+c:\users\tsais\documents\visual studio 2015\Projects\loop\loop\obj\Debug\loop.pdb

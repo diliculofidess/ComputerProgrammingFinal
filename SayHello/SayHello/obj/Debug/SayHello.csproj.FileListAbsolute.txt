@@ -1,0 +1,5 @@
+c:\users\tsais\documents\visual studio 2015\Projects\SayHello\SayHello\bin\Debug\SayHello.exe.config
+c:\users\tsais\documents\visual studio 2015\Projects\SayHello\SayHello\bin\Debug\SayHello.exe
+c:\users\tsais\documents\visual studio 2015\Projects\SayHello\SayHello\bin\Debug\SayHello.pdb
+c:\users\tsais\documents\visual studio 2015\Projects\SayHello\SayHello\obj\Debug\SayHello.exe
+c:\users\tsais\documents\visual studio 2015\Projects\SayHello\SayHello\obj\Debug\SayHello.pdb
